@@ -1,0 +1,10 @@
+﻿  Zombie.cpp
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(17,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(25,29): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(25,29): warning C4244:         with
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(25,29): warning C4244:         [
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(25,29): warning C4244:             T=float
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(25,29): warning C4244:         ]
+E:\Work\Second Year\Motion Graphics\firstSimpleGame\firstSimpleGame\Zombie.cpp(38,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  firstSimpleGame.vcxproj -> E:\Work\Second Year\Motion Graphics\firstSimpleGame\Debug\firstSimpleGame.exe
